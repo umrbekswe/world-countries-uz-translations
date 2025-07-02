@@ -1,6 +1,6 @@
 # 🌍 World Countries Data (English, Russian, Uzbek, Cyrillic)
 
-[⬇️ Download JSON](./countries_full_translations.json)
+[⬇️ Download JSON](./world-countries-uz-translations.json)
 
 ## Description
 
