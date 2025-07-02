@@ -1,5 +1,7 @@
 # 🌍 World Countries Data (English, Russian, Uzbek, Cyrillic)
 
+[⬇️ Download JSON](./countries_full_translations.json)
+
 ## Description
 
 A comprehensive JSON file of all countries with region/state/city lists, location info, and official country names translated into English, Russian, Uzbek (Latin and Cyrillic). Includes ISO codes, capitals, and geographical data.
